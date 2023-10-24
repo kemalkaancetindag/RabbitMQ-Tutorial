@@ -15,3 +15,6 @@ This Repo Contains Basics Concepts Of RabbitMQ
 
 * https://www.youtube.com/watch?v=iQ4kENLfaNI&list=PLalrWAGybpB-UHbRDhFsBgXJM1g6T4IvO&pp=iAQB
 
+### RabbitMQ Original Docs
+* https://www.rabbitmq.com/documentation.html
+
